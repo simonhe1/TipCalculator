@@ -12,6 +12,7 @@ class ViewController: UIViewController {
 
     @IBOutlet weak var billAmount: UITextField!
     @IBOutlet weak var tipTotal: UILabel!
+    @IBOutlet weak var tipAmount: UILabel!
     @IBOutlet weak var twoPeopleTip: UILabel!
     @IBOutlet weak var threePeopleTip: UILabel!
     @IBOutlet weak var fourPeopleTip: UILabel!
@@ -41,6 +42,8 @@ class ViewController: UIViewController {
         threePeopleTip.text = String(format: "$%.2f", total/3);
         fourPeopleTip.text = String(format: "$%.2f", total/4);
         tipTotal.text = String(format: "$%.2f", total);
+        tipAmount.text = String(format: "$%.2f", tip);
+
     }
     
 }
