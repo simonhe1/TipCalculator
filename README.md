@@ -21,19 +21,19 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] Added tip for more than one person, up to four people
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/tPGMazm' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://imgur.com/tPGMazm" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+A challenge I first faced was connecting everything and familiarizing myself with the swift language. Afterwards, coding on Xcode became very fun since the user experience of dragging and dropping made it fairly easy to understand. 
 
 ## License
 
